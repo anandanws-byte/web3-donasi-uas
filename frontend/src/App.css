@@ -1,0 +1,5 @@
+/* App.css is mainly used for layout-specific styles if needed, but most styles are in index.css */
+.App {
+    max-width: 1200px;
+    margin: 0 auto;
+}
